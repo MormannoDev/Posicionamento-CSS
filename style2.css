@@ -1,0 +1,26 @@
+.EsquerdaCima {
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+}
+
+.EsquerdaBaixo {
+    position: relative; top: 427px; left: 1px;
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+
+.DireitaCima {
+    position: absolute;top: 1px; right: 3px;
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+
+.DireitaBaixo {
+    position: relative; top: 196px; left: 87%;
+    width: 200px;
+    height: 200px;
+    background-color: black;
+}

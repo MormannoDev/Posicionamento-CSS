@@ -1,0 +1,107 @@
+.Esq1{
+    background-color: red;
+    height: 10vh;
+    width: 10vh;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.Esq2{
+    background-color: black;
+    height: 10vh;
+    width: 10vh;
+    position: absolute;
+    top: 11vh;
+    left: 0;
+}
+
+.Esq3{
+    background-color: black;
+    height: 10vh;
+    width: 10vh;
+    position: absolute;
+    top: 22vh;
+    left: 0;
+}
+
+.Esq4{
+    background-color: black;
+    height: 10vh;
+    width: 10vh;
+    position: absolute;
+    top: 0;
+    left: 11vh;
+}
+
+.Esq5{
+    background-color: black;
+    height: 10vh;
+    width: 10vh;
+    position: absolute;
+    top: 11vh;
+    left: 11vh;
+}
+
+.Esq6{
+    background-color: black;
+    height: 10vh;
+    width: 10vh;
+    position: absolute;
+    top: 0;
+    left: 22vh;
+}
+
+.Dir1{
+    background-color: black;
+    height: 10vh;
+    width: 10vh;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+.Dir2{
+    background-color: black;
+    height: 10vh;
+    width: 10vh;
+    position: absolute;
+    bottom: 11vh;
+    right: 0;
+}
+
+.Dir3{
+    background-color: black;
+    height: 10vh;
+    width: 10vh;
+    position: absolute;
+    bottom: 22vh;
+    right: 0;
+}
+
+.Dir4{
+    background-color: black;
+    height: 10vh;
+    width: 10vh;
+    position: absolute;
+    bottom: 0;
+    right: 11vh;
+}
+
+.Dir5{
+    background-color: black;
+    height: 10vh;
+    width: 10vh;
+    position: absolute;
+    bottom: 11vh;
+    right: 11vh;
+}
+
+.Dir6{
+    background-color: black;
+    height: 10vh;
+    width: 10vh;
+    position: absolute;
+    bottom: 0;
+    right: 22vh;
+}

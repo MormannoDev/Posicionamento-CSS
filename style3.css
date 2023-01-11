@@ -1,0 +1,25 @@
+.teste{
+    background-color: navy;
+    border-color: rgb(15, 146, 146);
+    color: white;
+    border-radius: 50px;
+    height: 30vh;
+    width: 950px;
+    text-align: right;
+    padding: 20px;
+    margin-left: 25vh;
+    margin-top: 60px;
+    text-transform: uppercase;
+    font-family: sans-serif;
+}
+
+.teste2{
+    background-color: navy;
+    border: 5px solid red;
+    color: white;
+    height: 30vh;
+    width: 950px;
+    padding: 20px;
+    margin-left: 25vh;
+    overflow: auto;
+}
